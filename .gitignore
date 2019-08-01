@@ -90,3 +90,7 @@ ENV/
 
 models/
 .vscode/
+
+hdfs_data/
+data_each_month/
+hdfs_data_2018/
