@@ -94,3 +94,6 @@ models/
 hdfs_data/
 data_each_month/
 hdfs_data_2018/
+mallet-2.0.8/
+some_data/
+df/
